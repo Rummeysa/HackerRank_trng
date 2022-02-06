@@ -1,1 +1,1 @@
-# HackerRank_trng
+# HackerRank / Array Manipulaiton Sorusunun Cevabını içeren kodu bulabilirsiniz.
