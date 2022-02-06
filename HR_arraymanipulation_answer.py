@@ -96,7 +96,7 @@ def arrayManipulation(n,queries):
 
 
 
-# Kullanıcıya 2 seçenek sunulur - Örnek input ile işlem mi yapmak istersen 1, İnput girmek istersen 2'yi tuşla 
+# Kullanıcıya 2 seçenek sunulur - Örnek input ile işlem yapmak istersen 1, İnput girmek istersen 2'yi tuşla 
 
 user_choice = None #söngüye girmesi için bu değer atandı
     
@@ -104,7 +104,7 @@ while user_choice not in {1,2}:
     
       
     try:
-        user_choice = int(input("Örnek input ile işlem mi yapmak istersen 1, İnput girmek istersen 2'yi tuşla!\n"))
+        user_choice = int(input("Örnek input ile işlem yapmak istersen 1, İnput girmek istersen 2'yi tuşla!\n"))
                   
     except:
         pass
